@@ -7,3 +7,9 @@
 >>routes/
 >>>routes.js -- The routes file will ensure that pages load in a quick and smooth fashion
 >app.js -- This file contains the definition for the main module of the app 
+
+<ul>
+  <li>
+    hello world
+  <li>
+</ul>
