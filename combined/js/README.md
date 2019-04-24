@@ -1,12 +1,15 @@
 ##This directory utilizes AngularJS. 
 
 ## File structure:
->js/
->>controllers/
->>>mainCtrl.js -- This is the main controller for the application
+&nbsp;js/
 
->>routes/
->>>routes.js -- The routes file will ensure that pages load in a quick and smooth fashion
+&nbsp;&nbsp;controllers/
 
->app.js -- This file contains the definition for the main module of the app 
+&nbsp;&nbsp;&nbsp;mainCtrl.js -- This is the main controller for the application
+
+&nbsp;&nbsp;routes/
+
+&nbsp;&nbsp;&nbsp;routes.js -- The routes file will ensure that pages load in a quick and smooth fashion
+
+&nbsp;app.js -- This file contains the definition for the main module of the app 
 
